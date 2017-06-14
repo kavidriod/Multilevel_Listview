@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multilevel_Listview</string>
+    <string name="title_activity_each_album">EachAlbumActivity</string>
+    <string name="title_activity_each_song">EachSongActivity</string>
+</resources>
